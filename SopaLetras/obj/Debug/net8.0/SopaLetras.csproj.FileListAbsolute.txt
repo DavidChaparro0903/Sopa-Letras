@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\SopaLetras\SopaLetras\obj\Debug\net8.0\SopaLetras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\SopaLetras\SopaLetras\obj\Debug\net8.0\SopaLetras.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\SopaLetras\SopaLetras\obj\Debug\net8.0\SopaLetras.AssemblyInfo.cs
+C:\Users\david\source\repos\SopaLetras\SopaLetras\obj\Debug\net8.0\SopaLetras.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\SopaLetras\SopaLetras\bin\Debug\net8.0\SopaLetras.exe
+C:\Users\david\source\repos\SopaLetras\SopaLetras\bin\Debug\net8.0\SopaLetras.deps.json
+C:\Users\david\source\repos\SopaLetras\SopaLetras\bin\Debug\net8.0\SopaLetras.runtimeconfig.json
+C:\Users\david\source\repos\SopaLetras\SopaLetras\bin\Debug\net8.0\SopaLetras.dll
+C:\Users\david\source\repos\SopaLetras\SopaLetras\bin\Debug\net8.0\SopaLetras.pdb
+C:\Users\david\source\repos\SopaLetras\SopaLetras\obj\Debug\net8.0\SopaLetras.dll
+C:\Users\david\source\repos\SopaLetras\SopaLetras\obj\Debug\net8.0\refint\SopaLetras.dll
+C:\Users\david\source\repos\SopaLetras\SopaLetras\obj\Debug\net8.0\SopaLetras.pdb
+C:\Users\david\source\repos\SopaLetras\SopaLetras\obj\Debug\net8.0\SopaLetras.genruntimeconfig.cache
+C:\Users\david\source\repos\SopaLetras\SopaLetras\obj\Debug\net8.0\ref\SopaLetras.dll
